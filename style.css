@@ -106,7 +106,8 @@
 .title__date-sml {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
-    text-decoration: underline;
+    border-bottom: 1px solid;
+    width: 73px;
     padding-top: 7px;
     cursor: pointer;
 }
@@ -253,6 +254,7 @@
     font-size: 48px;
     color: #8b9499;
     margin-top: auto;
+    opacity: 0.2;
 }
 
 .content-info {
